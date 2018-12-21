@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints*
+
+# Temp folder
+temp/
+
+# model weights
+*.pth
+*.pkl
+
+# folders
+Data/
+checkpoints/
+
+# build
+build/
+*.c
+*.so
+*.pyx
